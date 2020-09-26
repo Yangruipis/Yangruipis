@@ -1,9 +1,13 @@
-### Hi there 👋
+### Just Nyan It!
 
-## Nayn Now! 
-![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif)
+Nyanyanyanyanyanyanya! ♬ ♫ ♪ ♩
+
+![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif) ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif) ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif)
+
 
 [![ryang's github stats](https://github-readme-stats.vercel.app/api?username=Yangruipis&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yangruipis&layout=compact&hide=Roff,Emacs%20Lisp)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yangruipis/Yangruipis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
