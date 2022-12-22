@@ -3,9 +3,7 @@ Nyanyanyanyanyanyanya! ♬ ♫ ♪ ♩
 
 ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif) ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif) ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif)
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Yangruipis&count_private=true&theme=Gradient&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,a8edea,fed6e3&title_color=9795f0&text_color=fff&icon_color=9795f0" alt="stats" height="200px" >
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Yangruipis&layout=compact&langs_count=8&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=websitepage&hide=Roff,CSS,C,M4,Emacs%20Lisp&bg_color=30,a8edea,fed6e3&title_color=9795f0&text_color=fff&icon_color=9795f0" alt="top language" height="200px">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Yangruipis&count_private=true&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="200px" >
 
 <!--
 **Yangruipis/Yangruipis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
