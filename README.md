@@ -3,7 +3,7 @@ Nyanyanyanyanyanyanya! ♬ ♫ ♪ ♩
 
 ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif) ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif) ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif)
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Yangruipis&count_private=true&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="200px" >
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Yangruipis&count_private=true&bg_color=7f5ab6&title_color=ffffff&icon_color=c792ea&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" width=45% > <img width=32% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangruipis&hide_border=true&bg_color=7f5ab6&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide=Roff,C&layout=compact" all="stats">
 
 <!--
 **Yangruipis/Yangruipis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
