@@ -1,7 +1,33 @@
+## 👋 Hi, I'm Ruiyang Yang  
 
-Nyanyanyanyanyanyanya! ♬ ♫ ♪ ♩
+- 📍 Based in: Shanghai, China  
+- 🏢 Role: AI Infra Team at [Xiaohongshu](https://www.xiaohongshu.com/)  
+- 🤖 Focus: Post-training of large language models (SFT, RL, alignment, optimization)  
+- 💻 Stack: Python, PyTorch, Distributed Training, Optimization; Golang, C++, C#, TeX, Elisp…  
 
-![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif) ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif) ![Nayn Now](http://www.nyan.cat/images/thumbs/nyan.gif)
+---
+
+## 🛠️ Currently Working On  
+
+- 🔬 LLM post-training techniques, especially large-scale reinforcement learning with multimodal data  
+- ⚡ Training/Inference acceleration & model efficiency 
+- 🧩 Improving stability and scalability of AI infrastructure  
+
+---
+
+## ❤️ Beyond Code  
+
+- ✨ Deep [Emacs](https://www.gnu.org/software/emacs/) enthusiast — I write, organize, and live in Emacs + [Org Mode](https://orgmode.org/)  
+- ☕ Pour-over coffee lover — exploring beans, refining techniques, enjoying the process  
+- 🎵 Post-rock music
+
+---
+
+> ☕Smooth is 🚀fast | Perfect is Shit
+
+## So, let's Nyanyanyanyanyanyanya! ♬ ♫ ♪ ♩
+
+![Nayn Now](https://www.nyan.cat/images/thumbs/nyan.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/nyandoge.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/GB.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/technyancolor.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/jazz.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/mexinyan.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/jacksnyan.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/nyaninja.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/pirate.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/elevator.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/pikanyan.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/zombie.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/mummy.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/pumpkin.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/glitch.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/rasta.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/uhmurica.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/retro.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/vday.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/sadnyan.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/tacnayn.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/dub.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/slomo.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/xmas.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/tacodog.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/easter.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/bday.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/daft.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/paddy.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/breakfast.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/melonbird.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/starsheep.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/balloon.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/grumpy.gif) ![Nayn Now](https://www.nyan.cat/images/thumbs/newyear.gif) ![Nayn Now](https://www.nyan.cat/cats/vday.gif) ![Nayn Now](https://www.nyan.cat/images/lovebot.gif) 
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Yangruipis&count_private=true&bg_color=7f5ab6&title_color=ffffff&icon_color=c792ea&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" width=45% > <img width=32% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangruipis&hide_border=true&bg_color=7f5ab6&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide=Roff,C&layout=compact" all="stats">
 
