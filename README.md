@@ -28,7 +28,8 @@
 ## ❤️ Beyond Code  
 
 - ✨ Deep [Emacs](https://www.gnu.org/software/emacs/) enthusiast — I write, organize, and live in Emacs + [Org Mode](https://orgmode.org/)  
-- ☕ Pour-over coffee lover — exploring beans, refining techniques, enjoying the process  
+- ☕ Pour-over coffee lover — exploring beans, refining techniques, enjoying the process with `COMANDANTE::C40`
+.
 - 🎵 Post-rock music
 
 ---
