@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Rui Yang(杨睿)  
 
 - 📍 Based in: Shanghai, China  
-- 🏢 Role: AI Infra Team at [📕 Xiaohongshu](https://www.xiaohongshu.com/)  
+- 🏢 Role: AI Infra Team at [📕 Xiaohongshu](https://www.xiaohongshu.com/)  (RAI)
 - 🤖 Focus: Post-training of large language models (SFT, RL, alignment, optimization)  
 - 💻 Stack: Python, PyTorch, Distributed Training, Optimization; Golang, C++, C#, TeX, Elisp…  
 
@@ -34,7 +34,8 @@
 
 ---
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Yangruipis&count_private=true&bg_color=7f5ab6&title_color=ffffff&icon_color=c792ea&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" width=45% > 
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Yangruipis&count_private=true&bg_color=7f5ab6&title_color=ffffff&icon_color=c792ea&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" width=45% > <a href="https://ghfind.com/u/yangruipis?ref=badge"><img src="https://ghfind.com/api/card/mini/yangruipis?variant=radar&theme=dark" alt="GitHub Roast score card" width=45% /></a>
+
 
 > ☕ Smooth is 🚀 fast
 
